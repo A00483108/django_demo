@@ -1,4 +1,4 @@
-# Django Hotel API (Assignment)
+# Django REST API (Assignment)
 ### Developed By: Sukanta Dey Amit (A00483108)
 
 This is a simple Django project that provides an API for managing hotel data. The project uses Django and Django Rest Framework to handle HTTP requests for hotel information. The API allows users to perform CRUD operations (Create, Read, Update, Delete) on hotel data.
